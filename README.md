@@ -1,10 +1,6 @@
-<html> 
-<title> black and white heartbreak</title>
+<!DOCTYPE html>
+<html>
+ <head> rev's world</head>
+ <body> test</body>
  
-<body>
-body test
-<p> paragraph test</p>
- 
-</body>
-
 </html>
