@@ -2,7 +2,13 @@
 <html>
 <head>
   <title>Black Background</title>
+  <style>
+    body {
+      background-color: black;
+      margin: 0;
+    }
+  </style>
 </head>
-<body style="background-color: black;">
+<body>
 </body>
 </html>
