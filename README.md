@@ -1,7 +1,5 @@
-<!DOCTYPE html>
-<html>
 <head>
-  <title>Black Background</title>
+  <title>.</title>
   <style>
     body {
       background-color: black;
@@ -18,7 +16,6 @@
 </head>
 <body>
 
-  <h1>rev's world</h1>
+  <h1>lol i give up</h1>
 
 </body>
-</html>
